@@ -1,0 +1,16 @@
+[server]
+headless = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#000"
+backgroundColor = "#fff"
+secondaryBackgroundColor = "#fff"
+textColor = "#fff"
+font = "sans-serif"
+
+# Hide the menu options
+[application]
+showPromo = false
